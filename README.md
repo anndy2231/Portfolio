@@ -1,9 +1,8 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6309593d-3e84-4ac7-8538-231e4a9295cf/deploy-status)](https://app.netlify.com/sites/xenodochial-elion-0b6f01/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6309593d-3e84-4ac7-8538-231e4a9295cf/deploy-status)](https://app.netlify.com/sites/portfolio-knduck/deploys)
+## Site: [https://portfolio-knduck.netlify.app/#/]
 
-# Kopo Profile
-
+# Portfolio
 * Vue.js Practice repo for educational purpose. 
-* And it will be used by korea polytechnics college students in their front-end class.
 * This repo is forked from https://github.com/mayank091193/mayank-profile.
 
 
