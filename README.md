@@ -1,10 +1,7 @@
 
-
 # Portfolio
 * This repo is forked from https://github.com/mayank091193/mayank-profile.
 
-
-## Site: [https://kopo.netlify.app/#/](https://kopo.netlify.app/#/)
 
 ## Resources used
 * [Quasar Framework](https://quasar.dev/)
