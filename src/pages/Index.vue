@@ -337,7 +337,6 @@
                 email: "",
                 message: "",
                 selected_tab: 'about_me',
-                modalWindow : false,
             }
         },
         methods: {
@@ -347,9 +346,6 @@
                 const offset = el.offsetTop - 65
                 const duration = 800
                 setScrollPosition(target, offset, duration)
-            },
-            imgDetails(){
-              this.modalWindow = true;
             }
         },
         mounted: function () {
