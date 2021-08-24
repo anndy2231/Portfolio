@@ -164,8 +164,8 @@
                       Java + Linux(SendMail Server) Program
                       <ul>
                         <li>리눅스에 SendMail 서버 구축 후 Java로 제작한 이메일 전송 프로그램</li>
-                        <li>게시판 CRUD, 로그인 세션처리</li>
                         <li>서버에 대한 이해, 리눅스 명령어 학습</li>
+                        <li>게시판 CRUD, 로그인 세션처리</li>
                       </ul>
                     </div>
                   </q-card-section>
