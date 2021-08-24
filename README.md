@@ -2,9 +2,11 @@
 ## Site: [https://portfolio-knduck.netlify.app/#/](https://portfolio-knduck.netlify.app/#/)
 
 
+
 # Portfolio
-* Vue.js Practice repo for educational purpose. 
+* This is a simple portfolio based on Quasar Framework.
 * This repo is forked from https://github.com/mayank091193/mayank-profile.
+
 
 
 ## Resources used
@@ -12,28 +14,36 @@
 * [Vue.js](https://vuejs.org/)
 
 
+
 ## Install the dependencies
 ```bash
-cd kopoProfile
 npm install
 ```
+
+
 
 ### Start the app in development mode 
 ```bash
 quasar dev
 ```
 
+
+
 ### Build the app for production
 ```bash
 quasar build
 ```
 
+
+
 ### Customize the configuration
 See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
 
 
+
 ## License
 [MIT](http://opensource.org/licenses/MIT)
+
 
 
 ## Original Source (forked from)
