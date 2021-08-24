@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9bd88d59-5c7b-4ec7-a59c-21c2bf52adb4/deploy-status)](https://app.netlify.com/sites/kopo/deploys)
+
 
 # Portfolio
 * This repo is forked from https://github.com/mayank091193/mayank-profile.
