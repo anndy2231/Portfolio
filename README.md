@@ -1,4 +1,4 @@
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6309593d-3e84-4ac7-8538-231e4a9295cf/deploy-status)](https://app.netlify.com/sites/xenodochial-elion-0b6f01/deploys)
 
 # Kopo Profile
 
