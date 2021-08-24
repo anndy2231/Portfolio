@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6309593d-3e84-4ac7-8538-231e4a9295cf/deploy-status)](https://app.netlify.com/sites/portfolio-knduck/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/922ac865-8d60-42c6-b929-3b185a268aa4/deploy-status)](https://app.netlify.com/sites/portfolio-knduck/deploys)
 ## Site: [https://portfolio-knduck.netlify.app/#/](https://portfolio-knduck.netlify.app/#/)
 
 
