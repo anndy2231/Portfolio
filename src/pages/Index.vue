@@ -621,7 +621,7 @@ export default {
 }
 
 #contact_us {
-  background: url(/statics/images/contact_us.jpg);
+  background: url(/statics/images/sky.jpg);
   background-size: cover;
   background-position: 50%;
   background-attachment: fixed;
