@@ -447,7 +447,7 @@
                 name="name"
                 bg-color="white"
                 outlined
-                label="Your Name *"
+                label="이름"
               >
                 <template v-slot:append>
                   <q-icon name="list" style="color:darkslateblue" />
@@ -460,7 +460,7 @@
                 name="_replyto"
                 bg-color="white"
                 outlined
-                label="Your Email *"
+                label="이메일"
               >
                 <template v-slot:append>
                   <q-icon name="email" style="color:darkslateblue" />
@@ -478,7 +478,7 @@
                 type="textarea"
                 bg-color="white"
                 outlined
-                label="Your Message *"
+                label="내용"
               >
                 <template v-slot:append>
                   <q-icon name="comment" style="color:darkslateblue" />
